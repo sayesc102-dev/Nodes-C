@@ -1,0 +1,22 @@
+{
+  "name": "nodes-c-website",
+  "version": "1.0.0",
+  "description": "Official website for Nodes C",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "nodes-c",
+    "discord",
+    "website"
+  ],
+  "author": "Nodes C",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+
+
